@@ -8,4 +8,11 @@
 
 学习使用 Codex 创建 Pull Request
 
-// 修改时间：2026-09-10 23:55:32
+## 温度监测程序运行方法
+
+1. 确保电脑已经安装 Python 3。
+2. 在项目目录中运行下面的命令：
+
+```bash
+python temperature_monitor.py
+```
